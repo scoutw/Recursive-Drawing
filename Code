@@ -7,13 +7,13 @@ void setup (){
   
   translate (width/2, height/2); // (0,0) is at center
   
-  drawEye (400,200);
+  drawEye (200,100);
   
 }
 
 void drawEye(int w, int h){
-  int x = 2; // I think I can use this for the distance in between each layer?
-  if (w < 100 || h < 50) return;
+  int x = 1; // I think I can use this for the distance in between each layer?
+  if (w < 10 || h < 5) return;
   
   drawEye (h, h * x);
   rotate (HALF_PI);
