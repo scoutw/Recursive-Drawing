@@ -1,6 +1,6 @@
 # Recursive-Drawing
 
-I am aware this is not a super reliable source (but it worked... I think)
+I am aware this is not a super reliable source (but it worked)
 
 https://www.reddit.com/r/processing/comments/bze3cn/is_it_possible_to_change_the_position_of_00_on_a/
 
